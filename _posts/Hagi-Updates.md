@@ -16,7 +16,7 @@ Along with pull quotes
 
 ```
 Like this is a pull quote.
-As oppossed to earlier.
+As opposed to earlier.
 
 Where I just had a single line
 ```

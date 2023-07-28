@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-HAGI – Haptic Art for Global Interconnection is a collective of artists, makers and writers collaborating on objects to encourage empathy and connection.
+Haptic Art for Global Interconnection | HAGI is a collective of artists, makers and writers collaborating on objects to encourage empathy and connection.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
