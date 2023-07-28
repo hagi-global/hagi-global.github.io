@@ -7,4 +7,9 @@ HAGI is a collective of artists, makers and writers. When we came together to di
 
 We embrace the collective as the identity by which our efforts in this pursuit might be known.  
 
+![center-aligned-image](/assets/images/enter.webp){: .align-right}
+
+Not sure if there's anything below here
+enter.webp
+
 You can consider us pilgrims, committed to search for new ways of contributing to an idea bigger than any of us. Thank you for honouring our journey and we hope HAGI adds to yours.
