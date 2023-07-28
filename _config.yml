@@ -27,12 +27,16 @@ url: "hagi-global.github.io" # the base hostname & protocol for your site, e.g. 
 github_username:  hagi-global
 permalink: /:title
 markdown: rdiscount
+search: true
+search_full_content: true
+search_provider: lunr
 
 # Build settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+skin: steel
 plugins:
   - jekyll-feed
-skin: steel
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
