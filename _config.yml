@@ -25,13 +25,13 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "hagi-global.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hagi-global
+permalink: /:title
+markdown: rdiscount
 
 # Build settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
-
-permalink: /:title
 
 # Exclude from processing.
 # The following items will not be processed, by default.
