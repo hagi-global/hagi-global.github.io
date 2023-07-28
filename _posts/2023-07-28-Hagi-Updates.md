@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HAGI, Global Updates"
-date:   2023-07-28 13:50:59 +0
+date:   2023-07-28 00:50:59 +0
 categories: hagi update
 ---
 # HAGI
