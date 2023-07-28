@@ -20,7 +20,8 @@
 
 title: HAGI global
 email: hagi.global@gmail.com
-description: >- HAGI – Haptic Art for Global Interconnection is a collective of artists, makers and writers collaborating on objects to encourage empathy and connection.
+description: >- 
+HAGI – Haptic Art for Global Interconnection is a collective of artists, makers and writers collaborating on objects to encourage empathy and connection.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "hagi-global.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  hagi-global
