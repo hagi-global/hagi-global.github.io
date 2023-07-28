@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+image: assets/images/enter.webp
 ---
-![right-aligned-image](/assets/images/enter.webp){: .align-right}
 
-Not sure if there's anything below here
 enter.webp
