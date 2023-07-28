@@ -5,5 +5,3 @@
 layout: home
 image: assets/images/enter.webp
 ---
-
-enter.webp
