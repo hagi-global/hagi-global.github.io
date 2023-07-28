@@ -32,6 +32,7 @@ markdown: rdiscount
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
+skin: steel
 
 # Exclude from processing.
 # The following items will not be processed, by default.
